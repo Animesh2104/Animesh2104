@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Animesh2104
+- 👋 Hi, I’m @Animesh
 - 👀 I’m interested in Programming  
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on..
